@@ -42,6 +42,7 @@ closure is where the scope of a variable ends.
 1) window binding
 2) implicit binding
 3) explicit binding
+4) new binding
 
 5. Why do we need super() in an extended class?
 
